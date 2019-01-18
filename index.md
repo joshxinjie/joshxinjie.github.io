@@ -108,8 +108,8 @@ Implemented policy gradient to train an agent to play Tic-Tac_Toe.
 
 Part 1 of the project involved training the agent against a random computer opponent: 
 
-[Code](https://github.com/joshxinjie/CSC411_Winter_2018/tree/master/Project_4) | [Report](https://github.com/joshxinjie/CSC411_Winter_2018/blob/master/Project_4/tictactoe.pdf). 
+[Code](https://github.com/joshxinjie/CSC411_Winter_2018/tree/master/Project_4) | [Report](https://github.com/joshxinjie/CSC411_Winter_2018/blob/master/Project_4/tictactoe.pdf) 
 
 Part 2 of the project involved training the agent against itself: 
 
-[Code](https://github.com/joshxinjie/CSC411_Winter_2018/tree/master/Project_4_Bonus) | [Report](https://github.com/joshxinjie/CSC411_Winter_2018/blob/master/Project_4_Bonus/tictactoe_bonus.pdf). 
+[Code](https://github.com/joshxinjie/CSC411_Winter_2018/tree/master/Project_4_Bonus) | [Report](https://github.com/joshxinjie/CSC411_Winter_2018/blob/master/Project_4_Bonus/tictactoe_bonus.pdf)
