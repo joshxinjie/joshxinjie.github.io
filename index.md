@@ -1,3 +1,13 @@
+**Summary of Technical Skills**: 
+
+Programming:
+* Proficient: Python, R, SQL
+* Familiar (did a few projects/scripts): Java, C, MATLAB
+
+Libraries & Tools: 
+* Proficient: Scikit-Learn, XGBoost, Pandas
+* Familiar (did a few projects/scripts): Pytorch, PySpark, Cloud Computing (IBM Studio Watson)
+
 # Supervised Learning
 
 ## Tabular and Text Data
