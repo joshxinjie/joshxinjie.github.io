@@ -1,4 +1,4 @@
-## Supervised Learning
+# Supervised Learning
 
 ### Tabular and Text Data
 
@@ -82,14 +82,14 @@ Built a face recognition and gender classification system. The system was based 
 
 [Code](https://github.com/joshxinjie/CSC411_Winter_2018/tree/master/Project_1) | [Report](https://github.com/joshxinjie/CSC411_Winter_2018/blob/master/Project_1/faces.pdf)
 
-## Unsupervised Learning
+# Unsupervised Learning
 
 #### Bertelsmann Segmentation Analysis
 Worked with data provided by Bertelsmann Arvato, which contained 85 demographics attributes from 191,652 customers and 891,211 individuals from the German population.	Applied unsupervised learning techniques (K-Means) to identify segments of the German population that were popular or less popular with a mail-order firm, a client firm of Bertelsmann.	Identified differences in demographics attributes between the firm’s most popular and least popular customers. 
 
 [Code](https://github.com/joshxinjie/Data_Scientist_Nanodegree/tree/master/identify_customer_segment)
 
-## Recommendation Systems
+# Recommendation Systems
 
 #### IBM Recommendation Systems
 This project explored several algorithms used in recommendation engines. Recommended articles for users on the IBM Watson Studio platform using the following techniques:
@@ -101,7 +101,7 @@ This project explored several algorithms used in recommendation engines. Recomme
 
 [Code](https://github.com/joshxinjie/Data_Scientist_Nanodegree/tree/master/ibm_recommendations)
 
-## Reinforcement Learning
+# Reinforcement Learning
 
 #### Tic-Tac-Toe Playing Agent
 Implemented policy gradient to train an agent to play Tic-Tac_Toe. 
