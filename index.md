@@ -31,12 +31,12 @@ Explored Boston Airbnb Open Data and the Seattle Airbnb Open Data from Kaggle: [
 
 Shared the results on a Medium blog post that was published on Towards Data Science. 
 
-[Code](https://github.com/joshxinjie/Data_Scientist_Nanodegree/tree/master/data_science_blog) | [Blog](https://github.com/joshxinjie/Data_Scientist_Nanodegree/tree/master/data_science_blog)
+[Code](https://github.com/joshxinjie/Data_Scientist_Nanodegree/tree/master/data_science_blog) | [Blog](https://towardsdatascience.com/uncovering-the-secrets-to-higher-airbnb-revenues-6dbf178942afg)
 
 #### Starbucks Portfolio Exercise
 Implemented 4 different types of uplift models to identify customers whom we should send promotions. These models will help identify customers who will purchase products only when given promotions. This will reduce promotional costs, as we will refrain from sending promotions to customers who will puchase products regardless of being given promotions. Shared the results on a Medium blog post published on Data Driven Investor. 
 
-[Code](https://github.com/joshxinjie/Data_Scientist_Nanodegree/tree/master/starbucks_portfolio_exercise), [Blog](https://medium.com/datadriveninvestor/simple-machine-learning-techniques-to-improve-your-marketing-strategy-demystifying-uplift-models-dc4fb3f927a2)
+[Code](https://github.com/joshxinjie/Data_Scientist_Nanodegree/tree/master/starbucks_portfolio_exercise) | [Blog](https://medium.com/datadriveninvestor/simple-machine-learning-techniques-to-improve-your-marketing-strategy-demystifying-uplift-models-dc4fb3f927a2)
 
 #### Predict Future Sales
 Project for the Predict Future Sales competition at [Kaggle](https://www.kaggle.com/c/competitive-data-science-predict-future-sales). Currently obtained a test RMSE score of 0.92212 (top 24% of leaderboard), as of 18 January 2019. 
@@ -51,11 +51,11 @@ Used several machine learning algorithms to predict individuals' income with [da
 #### Classify Fake News
 Implemented Naive Bayes classifier from scratch with just numpy, a Logistic Regression algorithm with Pytorch, a MLP Neural Network with Pytorch, and a Decision Tree Classifier with Scikit-Learn. Used these classifiers to predict whether a news headline is real or fake news. Code from this project was split in two sections. 
 
-The first section included the Naive Bayes, Logistic Regression and Decision Tree algorithms: 
+The first section includes the Naive Bayes, Logistic Regression and Decision Tree algorithms: 
 
-[Code](https://github.com/joshxinjie/CSC411_Winter_2018/tree/master/Project_3) | [Report](https://github.com/joshxinjie/CSC411_Winter_2018/blob/master/Project_3/fake.pdf). 
+[Code](https://github.com/joshxinjie/CSC411_Winter_2018/tree/master/Project_3) | [Report](https://github.com/joshxinjie/CSC411_Winter_2018/blob/master/Project_3/fake.pdf)
 
-The second section included the MLP Neural Network Algorithm: 
+The second section includes the MLP Neural Network Algorithm: 
 
 [Code](https://github.com/joshxinjie/CSC411_Winter_2018/tree/master/Project_3_Bonus) | [Report](https://github.com/joshxinjie/CSC411_Winter_2018/blob/master/Project_3_Bonus/fakebonus.pdf)
 
