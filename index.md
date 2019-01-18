@@ -76,9 +76,9 @@ Implemented an image classifier with Pytorch. The project can be run from the co
 #### Facial Classifier with Neural Networks
 Built systems for handwritten digit recognition and face recognition. The systems were based on several neural network arhcitectures:
 
-1) Single layer neural network implemented from scratch with just numpy
-2) Single hidden layer neural network implemented with Pytorch
-3) Transfer-learning model using a pre-trained AlexNet CNN to extract features from images and training only the final fully-connected layers. Implemented with Pytorch.
+1. Single layer neural network implemented from scratch with just numpy
+2. Single hidden layer neural network implemented with Pytorch
+3. Transfer-learning model using a pre-trained AlexNet CNN to extract features from images and training only the final fully-connected layers. Implemented with Pytorch.
 
 Used face images from [FaceScrub](http://vintage.winklerbros.net/facescrub.html) and the MNIST digits dataset to train and test the system. 
 
