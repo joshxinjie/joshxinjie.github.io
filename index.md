@@ -1,6 +1,6 @@
 # Supervised Learning
 
-### Tabular and Text Data
+## Tabular and Text Data
 
 #### Sparkify Customer Churn
 Predicted customer churn for a digital music service. Churn was defined as downgrading from premium to free tier or cancelling the service. Project was done with PySpark. The code was ran on my local machine with a 125 mb dataset, on IBM Studio Watson with a 237 mb dataset. Will run the model on AWS with the full 12 gb dataset. 
@@ -16,7 +16,7 @@ Wrote about the project on a Medium blog post that was published on Towards Data
 [Code](https://github.com/joshxinjie/Data_Scientist_Nanodegree/tree/master/capstone) | [Blog](https://towardsdatascience.com/implementing-a-profitable-promotional-strategy-for-starbucks-with-machine-learning-part-1-2f25ec9ae00c)
 
 #### Classify Messages with Pipelines
-Build basic ETL and ML pipelines to classify messages that were sent during disasters, using data from Figure Eight. Deployed model on a simple Web app. 
+Build basic ETL and ML pipelines to classify messages that were sent during disasters, using data from Figure Eight. Deployed model on a simple web app. 
 
 [Code](https://github.com/joshxinjie/Data_Scientist_Nanodegree/tree/master/disaster_response_pipeline)
 
@@ -59,7 +59,7 @@ The second section includes the MLP Neural Network Algorithm:
 
 [Code](https://github.com/joshxinjie/CSC411_Winter_2018/tree/master/Project_3_Bonus) | [Report](https://github.com/joshxinjie/CSC411_Winter_2018/blob/master/Project_3_Bonus/fakebonus.pdf)
 
-### Image Data
+## Image Data
 
 #### Image Classifier with Transfer Learning
 Implemented an image classifier with Pytorch. The project can be run from the command-line as a python application. The application offers a variety of pre-trained architectures (AlexNet, VGG, Resnet, DenseNet) to extract features from the input images. the script will then train the fully-connected layers of the classifier. 
