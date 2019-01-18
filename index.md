@@ -121,7 +121,7 @@ This project explored several algorithms used in recommendation engines. Recomme
 _Image taken from http://web.stanford.edu/class/cs234/index.html_
 
 #### Tic-Tac-Toe Playing Agent
-Implemented policy gradient to train an agent to play Tic-Tac_Toe. 
+Implemented policy gradient to train an agent to play Tic-Tac-Toe. 
 
 Part 1 of the project involved training the agent against a random computer opponent: 
 
