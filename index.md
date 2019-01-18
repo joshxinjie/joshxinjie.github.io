@@ -1,7 +1,3 @@
-# Portfolio of Josh X.J. Lee
-
-A brief summary of all the projects I have done, mostly on data science and machine learning.
-
 ## Supervised Learning
 
 ### Tabular and Text Data
