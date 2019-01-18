@@ -2,6 +2,9 @@
 
 ## Tabular and Text Data
 
+![Tabular and Text Data](Untitled-design-e1486992925191.png)
+Image taken from http://www.byteplusone.com/mulesoft-working-with-csv-files/
+
 #### Sparkify Customer Churn
 Predicted customer churn for a digital music service. Churn was defined as downgrading from premium to free tier or cancelling the service. Project was done with PySpark. The code was ran on my local machine with a 125 mb dataset, on IBM Studio Watson with a 237 mb dataset. Will run the model on AWS with the full 12 gb dataset. 
 
@@ -61,6 +64,9 @@ The second section includes the MLP Neural Network Algorithm:
 
 ## Image Data
 
+![Image Data](CMS_Creative_164657191_Kingfisher.jpg)
+Image taken from https://www.gettyimages.ca/
+
 #### Image Classifier with Transfer Learning
 Implemented an image classifier with Pytorch. The project can be run from the command-line as a python application. The application offers a variety of pre-trained architectures (AlexNet, VGG, Resnet, DenseNet) to extract features from the input images. the script will then train the fully-connected layers of the classifier. 
 
@@ -84,12 +90,19 @@ Built a face recognition and gender classification system. The system was based 
 
 # Unsupervised Learning
 
+![Unsupervised Learning](k-means-copy.jpg)
+Image taken from https://www.geeksforgeeks.org/clustering-in-machine-learning/
+
 #### Bertelsmann Segmentation Analysis
 Worked with data provided by Bertelsmann Arvato, which contained 85 demographics attributes from 191,652 customers and 891,211 individuals from the German population.	Applied unsupervised learning techniques (K-Means) to identify segments of the German population that were popular or less popular with a mail-order firm, a client firm of Bertelsmann.	Identified differences in demographics attributes between the firm’s most popular and least popular customers. 
 
 [Code](https://github.com/joshxinjie/Data_Scientist_Nanodegree/tree/master/identify_customer_segment)
 
 # Recommendation Systems
+
+![Recommendation]( 
+2ebah6c-1.png )
+Image taken from http://datameetsmedia.com/an-overview-of-recommendation-systems/
 
 #### IBM Recommendation Systems
 This project explored several algorithms used in recommendation engines. Recommended articles for users on the IBM Watson Studio platform using the following techniques:
@@ -102,6 +115,9 @@ This project explored several algorithms used in recommendation engines. Recomme
 [Code](https://github.com/joshxinjie/Data_Scientist_Nanodegree/tree/master/ibm_recommendations)
 
 # Reinforcement Learning
+
+![RL](RL.png)
+Image taken from http://web.stanford.edu/class/cs234/index.html
 
 #### Tic-Tac-Toe Playing Agent
 Implemented policy gradient to train an agent to play Tic-Tac_Toe. 
