@@ -21,7 +21,7 @@ Predicted customer churn for a digital music service. Churn was defined as downg
 
 [Code](https://github.com/joshxinjie/sparkify_customer_churn)
 
-#### Starbucks Uplift Models
+#### Starbucks Promotional Strategy with Uplift Models
 Explored data from Starbucks Rewards Mobile App and implemented a promotional strategy with uplift models. Data contains 4 demographics attributes of customers and as well as timestamped customers’ transactions performed on the app. Due to the low number of features available, substantial feature engineering were done. Also predicted missing demographics attributes with machine learning models. Used classification models to predict customers' probabilities of profits in 2 situations: 1) given promotions, 2) not given promotions. Difference in the two probabilities is the uplift value, and promotions will be sent to individuals with positive uplift values.
 Measured profitability of the promotional strategy using Net Incremental Revenue (NIR). Found promotional strategies with positive NIR for 6 out of 10 types of promotions. This was also the capstone project for my Udacity DSND course. 
 
@@ -78,12 +78,12 @@ The second section includes the MLP Neural Network Algorithm:
 ![Image Data](CMS_Creative_164657191_Kingfisher.jpg)
 _Image taken from https://www.gettyimages.ca/_
 
-#### Image Classifier with Transfer Learning
+#### Image Classifier Python Application with Transfer Learning
 Implemented an image classifier with Pytorch. The project can be run from the command-line as a python application. The application offers a variety of pre-trained architectures (AlexNet, VGG, Resnet, DenseNet) to extract features from the input images. the script will then train the fully-connected layers of the classifier. 
 
 [Code](https://github.com/joshxinjie/Data_Scientist_Nanodegree/tree/master/image_classifier)
 
-#### Facial Classifier with Neural Networks
+#### Facial and Handwritten Digits Classifier with Neural Networks
 Built systems for handwritten digit recognition and face recognition. The systems were based on several neural network arhcitectures:
 
 1. Single layer neural network implemented from scratch with just numpy
