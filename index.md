@@ -4,9 +4,12 @@ Programming:
 * Proficient: Python, R, SQL
 * Familiar (did a few projects/scripts): Java, C, MATLAB
 
-Libraries & Tools: 
+Libraries: 
 * Proficient: Scikit-Learn, XGBoost, Pandas
-* Familiar (did a few projects/scripts): Pytorch, PySpark, Cloud Computing (IBM Studio Watson)
+* Familiar (did a few projects/scripts): Pytorch, PySpark
+
+Tools:
+* Power BI, Cloud Computing (IBM Studio Watson)
 
 # Supervised Learning
 
