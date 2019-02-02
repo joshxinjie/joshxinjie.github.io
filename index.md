@@ -2,14 +2,15 @@
 
 Programming:
 * Proficient: Python, R, SQL
-* Familiar (did a few projects/scripts): Java, C, MATLAB
+* Familiar: Java, C, MATLAB
 
 Libraries: 
-* Proficient: Scikit-Learn, XGBoost, Pandas
-* Familiar (did a few projects/scripts): Pytorch, PySpark
+* Scikit-Learn, XGBoost, Pandas, Pytorch, PySpark
 
 Tools:
-* Power BI, Cloud Computing (IBM Studio Watson)
+* Power BI, Cloud Computing (AWS, Databricks, IBM Studio Watson)
+
+Familiar means that I did a few projects/scripts with that language/tool
 
 # Supervised Learning
 
@@ -20,7 +21,7 @@ Tools:
 _Image taken from http://www.byteplusone.com/mulesoft-working-with-csv-files/_
 
 #### Sparkify Customer Churn
-Predicted customer churn for a digital music service. Churn was defined as downgrading from premium to free tier or cancelling the service. Project was done with PySpark. The code was ran on my local machine with a 125 mb dataset, on IBM Studio Watson with a 237 mb dataset. Will run the model on AWS with the full 12 gb dataset. 
+Predicted customer churn for a digital music service. Churn was defined as downgrading from premium to free tier or cancelling the service. Project was done with PySpark. The code was tested on my local machine with a 125 mb dataset, on IBM Studio Watson and Databricks with a 237 mb dataset, and on AWS EMR with the full 12 gb dataset.
 
 [Code](https://github.com/joshxinjie/sparkify_customer_churn)
 
