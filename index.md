@@ -23,7 +23,7 @@ _Image taken from http://www.byteplusone.com/mulesoft-working-with-csv-files/_
 #### Sparkify Customer Churn
 Predicted customer churn for a digital music service. Churn was defined as downgrading from premium to free tier or cancelling the service. Project was done with PySpark. The code was tested on my local machine with a 125 mb dataset, on IBM Studio Watson and Databricks with a 237 mb dataset, and on AWS EMR with the full 12 gb dataset.
 
-[Code](https://github.com/joshxinjie/sparkify_customer_churn)
+[Code](https://github.com/joshxinjie/sparkify_customer_churn) | [Blog](https://medium.com/@joshxinjielee/customer-churn-prediction-with-pyspark-on-ibm-watson-studio-aws-and-databricks-de57a2ffb25b)
 
 #### Starbucks Promotional Strategy with Uplift Models
 Explored data from Starbucks Rewards Mobile App and implemented a promotional strategy with uplift models. Data contains 4 demographics attributes of customers and as well as timestamped customers’ transactions performed on the app. Due to the low number of features available, substantial feature engineering were done. Also predicted missing demographics attributes with machine learning models. Used classification models to predict customers' probabilities of profits in 2 situations: 1) given promotions, 2) not given promotions. Difference in the two probabilities is the uplift value, and promotions will be sent to individuals with positive uplift values.
